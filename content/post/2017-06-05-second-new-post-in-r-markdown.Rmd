@@ -1,0 +1,26 @@
+---
+title: Second New Post (in R Markdown)
+author: ~
+date: '2017-06-05'
+slug: second-new-post-in-r-markdown
+categories: []
+tags: []
+---
+
+```{R, include = FALSE}
+library(readr)
+library(ggplot2)
+
+
+```
+
+
+Starting to use R markdown
+
+```{R, echo = FALSE}
+
+ggplot(data = cars, aes(x = speed, y = dist, color = "red")) + geom_point(alpha = .7)
+
+```
+
+
