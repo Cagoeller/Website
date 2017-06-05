@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Second New Post (in R Markdown)</title>
+      <link>/2017/06/05/second-new-post-in-r-markdown/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/06/05/second-new-post-in-r-markdown/</guid>
+      <description>Starting to use R markdown</description>
+    </item>
+    
+    <item>
       <title>A Plain Markdown Post</title>
       <link>/2016/12/30/a-plain-markdown-post/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
